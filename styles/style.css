@@ -134,3 +134,33 @@ main section{
     width: 909px;
     margin: 0 auto;
 }
+
+/* Resume section style */
+.section-title{
+    font-size: 35px;
+    margin-bottom: 113px;
+}
+.resume-container{
+    display: flex;
+    gap: 30px;
+}
+.experience-description{
+    font-size: 16px;
+}
+.experience-sub-title{
+    font-size: 20px;
+    font-weight: 600;
+    margin-bottom: 20px;
+
+}
+.experience-title{
+    font-size: 25px;
+    margin-bottom: 10px;
+    
+}
+.resume-column-title{
+    font-size: 30px;
+}
+.resume-download-cv{
+    margin-top: 50px;
+}
